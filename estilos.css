@@ -1,0 +1,59 @@
+header {
+    background-color: rgb(96, 151, 0);
+}
+
+.logotipo {
+    width: 80px;
+    float: left;
+    background-color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+main {
+    margin: 50px;
+    text-align: center;
+    background-color: rgb(0, 160, 208, 0.2);
+}
+
+.cajas {
+    margin: 2px;
+}
+
+#login  {
+    margin: 20px;
+}
+
+footer {
+    text-align: end;
+}
+
+#user_name {
+    text-align: center;
+    background-color: rgb(0, 160, 208, 0.4);
+}
+
+#foto {
+    width: 80px;
+    border-radius: 60%;
+}
+
+.atras {
+    background-color: red;
+}
+
+#menu {
+    column-count: 2;
+    padding: 20px;
+}
+
+#menu li {
+    padding: 10px;
+}
+
+#tabla {
+    padding: 20px;
+}
